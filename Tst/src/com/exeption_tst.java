@@ -67,7 +67,7 @@ public class exeption_tst {
             }
             catch (TstClass.MyNullPointerException e){
                 System.out.println(e.getMessage());
-                System.out.println("catch exeption!");
+                System.out.println("catch exeption!!!");
             }
         }
     }
